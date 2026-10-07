@@ -1,0 +1,12 @@
+# Evidence and target material stays local
+evidence/
+screenshots/
+*.pcap
+*.har
+
+# Credentials and notes about the target
+credentials.txt
+engagement-brief*
+
+# Editor and system clutter
+.vscode/
