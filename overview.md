@@ -1,10 +1,10 @@
 # Contents
-App Recon and analysis
-Test handling of access
-Test handling of input
-Test application logic
-Assess application hosting
-Miscellaneous tests
+- App Recon and analysis
+- Test handling of access
+- Test handling of input
+- Test application logic
+- Assess application hosting
+- Miscellaneous tests
 
 ## App Recon and analysis
 - [ ] Map visible content (passive)
