@@ -8,17 +8,16 @@
 
 ## App Recon and analysis
 - [ ] Map visible content (passive)
-- [ ] Examine (passive)
-- [ ] 3rd party scanners (passive) 
-- [ ] Examine banners 
+- [ ] Examine banners (passive)
+- [ ] 3rd party scanners
+- [ ] Examine banners (active)
 - [ ] Nmap scans
 - [ ] Discover hidden & default content (Direcory/File Bruteforce)
-- [ ] Identify data entry points (Discover Dynamic Content in Burp Pro)
+- [ ] Test for debug parameters
+- [ ] Identify data entry points
 - [ ] Research existing vulnerabilitties in technology
-- [ ] Gather wordlists for specific techniology (Assetnote ones are excellent)
 - [ ] Map the attack surface automatically
 - [ ] Identify javascript files
-- [ ] Test for debug parameters
 
 ## Test handling of access
 ### - [ ] Authentication
